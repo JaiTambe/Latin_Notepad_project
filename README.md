@@ -27,8 +27,17 @@ Follow these steps to set up and run the project:
    
 2. Install the required libraries:
    pip install -r requirements.txt
+
+   For Ubuntu/Debian:
+   sudo apt-get install python3-tk
+
+   For Windows/Mac:
+   sudo dnf install python3-tkinter
+
+   pip install deep-translator
+
    
-3. Run the application:
+4. Run the application:
    python latin_notepad.py
 
 ## Usage
@@ -42,4 +51,14 @@ Follow these steps to set up and run the project:
 
 ## Screenshots
 ![Screenshot from 2024-11-23 14-37-42](https://github.com/user-attachments/assets/cb63f9d9-3662-4b21-81c0-52ed210c64cc)
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+- *Deep Translator*: For providing the translation service used in this app.
+- *Tkinter*: For the GUI framework used to build the notepad.
+- *Python Community*: For their continuous support and helpful resources.
+- Special thanks to *Dr. Yerriswamy T* for reviewing the code and providing valuable suggestions.
 
