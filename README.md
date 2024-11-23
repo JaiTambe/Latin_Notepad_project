@@ -41,5 +41,5 @@ Follow these steps to set up and run the project:
 - Output = veritas : truth
 
 ## Screenshots
-
+![Screenshot from 2024-11-23 14-37-42](https://github.com/user-attachments/assets/cb63f9d9-3662-4b21-81c0-52ed210c64cc)
 
